@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Sandbox\\Projects\\C#\\travel-time\\travel-time.csproj",
+      "projectUniqueName": "E:\\Sandbox\\Projects\\C#\\travel-time\\travel-time\\travel-time.csproj",
       "projectName": "travel-time",
-      "projectPath": "E:\\Sandbox\\Projects\\C#\\travel-time\\travel-time.csproj",
+      "projectPath": "E:\\Sandbox\\Projects\\C#\\travel-time\\travel-time\\travel-time.csproj",
       "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-      "outputPath": "E:\\Sandbox\\Projects\\C#\\travel-time\\obj\\",
+      "outputPath": "E:\\Sandbox\\Projects\\C#\\travel-time\\travel-time\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
