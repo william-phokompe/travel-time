@@ -1,0 +1,16 @@
+E:\Sandbox\Projects\C#\travel-time\TravelTime\bin\Debug\net5.0\TravelTime.exe
+E:\Sandbox\Projects\C#\travel-time\TravelTime\bin\Debug\net5.0\TravelTime.deps.json
+E:\Sandbox\Projects\C#\travel-time\TravelTime\bin\Debug\net5.0\TravelTime.runtimeconfig.json
+E:\Sandbox\Projects\C#\travel-time\TravelTime\bin\Debug\net5.0\TravelTime.runtimeconfig.dev.json
+E:\Sandbox\Projects\C#\travel-time\TravelTime\bin\Debug\net5.0\TravelTime.dll
+E:\Sandbox\Projects\C#\travel-time\TravelTime\bin\Debug\net5.0\ref\TravelTime.dll
+E:\Sandbox\Projects\C#\travel-time\TravelTime\bin\Debug\net5.0\TravelTime.pdb
+E:\Sandbox\Projects\C#\travel-time\TravelTime\obj\Debug\net5.0\TravelTime.csprojAssemblyReference.cache
+E:\Sandbox\Projects\C#\travel-time\TravelTime\obj\Debug\net5.0\TravelTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sandbox\Projects\C#\travel-time\TravelTime\obj\Debug\net5.0\TravelTime.AssemblyInfoInputs.cache
+E:\Sandbox\Projects\C#\travel-time\TravelTime\obj\Debug\net5.0\TravelTime.AssemblyInfo.cs
+E:\Sandbox\Projects\C#\travel-time\TravelTime\obj\Debug\net5.0\TravelTime.csproj.CoreCompileInputs.cache
+E:\Sandbox\Projects\C#\travel-time\TravelTime\obj\Debug\net5.0\TravelTime.dll
+E:\Sandbox\Projects\C#\travel-time\TravelTime\obj\Debug\net5.0\ref\TravelTime.dll
+E:\Sandbox\Projects\C#\travel-time\TravelTime\obj\Debug\net5.0\TravelTime.pdb
+E:\Sandbox\Projects\C#\travel-time\TravelTime\obj\Debug\net5.0\TravelTime.genruntimeconfig.cache

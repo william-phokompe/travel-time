@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Sandbox\\Projects\\C#\\travel-time\\TravelTime\\TravelTime.csproj": {}
+  },
+  "projects": {
+    "E:\\Sandbox\\Projects\\C#\\travel-time\\TravelTime\\TravelTime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Sandbox\\Projects\\C#\\travel-time\\TravelTime\\TravelTime.csproj",
+        "projectName": "TravelTime",
+        "projectPath": "E:\\Sandbox\\Projects\\C#\\travel-time\\TravelTime\\TravelTime.csproj",
+        "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
+        "outputPath": "E:\\Sandbox\\Projects\\C#\\travel-time\\TravelTime\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
